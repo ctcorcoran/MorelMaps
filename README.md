@@ -13,6 +13,18 @@ The file structure is as follows:
 
 The code is compartmentalized both across data types, and along the process. Various "check plots" are produced to monitor the state of each block of the process.
 
+### Results
+
+The primary results are 5 plots of key soil temperature (C) related indicators estimated for the burn area spatial domain, each of which can provide indication on morel fruiting potential.
+
+1. **Soil_avg_[date] -** estimated soil temp on [date].
+2. **Soil_cum_[date] -** cumulative estimated soil temp on [date].
+3. **Soil_mov_[date] -** 10-day moving average estimated soil temp on [date].
+4. **Soil_cum_thresh_prob_[date] -** probability that cumulative soil temp has crossed the fruiting threshold.
+5. **Soil_mov_thresh_prob_[date] -** probability that the soil temperature moving average exceeds 10 C.
+
+Of these, 4. offers the most sophistication and basis in the morel ecology literature.
+
 ### Inputs
 
 #### Temperature
@@ -62,14 +74,14 @@ and
 
 These scripts should only need be run once per fire. Global spatial settings are maintained in geo_config.yml
 
-## Model Prep
+### Model Prep
 
 Both the spatial and temperature data need to be further processed before the model can be run
 
 * **Spatial:** generate_prediction_domain.py combines the fire perimeter shapefile and the DEM to generate (x,y,z) points for the soil temperature estimation, produces prediction_domain_pts.csv.
 * **Temperature:** fit_gam.py fits a generalized additive model (GAM) to paired air-soil data, which will be used to estimate soil temperature at each spatial point, produces gam.pkl.
 
-## Model
+### Model
 
 The model takes in three inputs:
 
@@ -82,14 +94,3 @@ At each domain point, the following three-step process id performed:
 2. The GAM estimates a soil temperature time series from air temperature, time, elevation, and latitude.
 3. Soil temperature is post-processed to compute morel-related temperature indicators.
 
-### Results
-
-The primary results are 5 plots of key soil temperature (C) related indicators estimated for the burn area spatial domain, each of which can provide indication on morel fruiting potential.
-
-1. **Soil_avg_[date] -** estimated soil temp on [date].
-2. **Soil_cum_[date] -** cumulative estimated soil temp on [date].
-3. **Soil_mov_[date] -** 10-day moving average estimated soil temp on [date].
-4. **Soil_cum_thresh_prob_[date] -** probability that cumulative soil temp has crossed the fruiting threshold.
-5. **Soil_mov_thresh_prob_[date] -** probability that the soil temperature moving average exceeds 10 C.
-
-Of these, 4. offers the most sophistication and basis in the morel ecology literature.
