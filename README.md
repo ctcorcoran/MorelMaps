@@ -38,13 +38,13 @@ for their last update [date].
 
 API credentials are kept in api_config.yml, which has the following structure:
 
-'''
+```
 API:
   Netork_Name:
     key: [your_key]
     type: [type of key]
     data_filename: [Network_name]_temp_data
-'''
+```
 
 #### Spatial
 
