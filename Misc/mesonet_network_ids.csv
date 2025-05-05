@@ -1,0 +1,239 @@
+MNET_ID,Name
+1,ASOS/AWOS ASOS/AWOS
+2,RAWS Interagency Remote Automatic Weather Stations
+3,DUGWAY U.S. Army Dugway Proving Grounds
+4,UTAH DOT Utah Department of Transportation
+5,ARL FRD NOAA Air Resources Laboratory Field Research Division
+6,AVALANCHE Ski and Avalanche Networks
+7,"TOOELE U.S. Army Deseret Chemical Depot, Tooele County"
+8,SNOWNET Snownet/Local Mesonet
+9,AQ Utah Department of Air Quality
+10,ARL SORD NOAA Air Resources Laboratory Special Operations and Resource Division
+11,AGRIMET U.S. Bureau of Reclamation
+12,MISC Miscellaneous
+13,"CAMPBELL Campbell Scientific, Inc."
+14,CANADA Environment Canada 
+15,MT DOT Montana Department of Transportation
+16,WY DOT Wyoming Department of Transportation
+17,LOXWFO Los Angeles/Oxnard Weather Forecast Office
+20,KENNECOTT Kennecott Utah Copper
+21,AZ ALERT The Flood Control District of Maricopa County
+22,NV DOT Nevada Department of Transportation
+23,CBRFC Colorado Basin River Forecast Center
+25,SNOTEL Natural Resources Conservation Service
+26,UTAH CLIMATE CENTER Utah Climate Center
+27,MCSCN Montana Counties Soil Climate Network
+28,MEXICO Servicio Meteorologico Nacional (Mexico)
+29,SCAN Soil Climate Analysis Network
+34,MSI Trinity Consultants Inc.
+36,WA DOT Washington Department of Transportation
+37,NWAC Northwest Avalanche Center 
+38,HMMN Hanford Meteorological Monitoring Network
+39,AZMET The Arizona Meteorological Network
+40,WAAQ Washington State Department of Ecology Air Quality Network
+41,ITD Idaho Transportation Department
+43,CNRFC California Nevada River Forecast Center
+44,DUDFCD Mile High Flood District
+45,BWFO NWS Boulder WFO National Weather Service 
+46,CAIC Colorado Avalanche Information Center
+47,KSL KSL
+48,BTAVAL Bridger Teton National Forest Avalanche Center
+49,ODOT Oregon Department of Transportation
+50,CEMP Community Environmental Monitoring Program
+51,LANL Los Alamos National Laboratory
+57,CARB California Air Resources Board
+58,SHASAVAL Mt. Shasta Avalanche Center
+59,CALTRANS California Department of Transportation
+60,FAWN Florida Automated Weather Network
+62,DRI Desert Research Institute
+63,CDOT Colorado Department of Transportation
+64,UPR Union Pacific Railroad
+65,APRSWXNET/CWOP Automatic Position Reporting System WX NET/Citizen Weather Observer Program
+66,CIMIS California Irrigation Management Information System
+68,GNP Glacier National Park
+71,WIDOT Wisconsin Department of Transportation
+72,NWS COOP NWS Modernized Cooperative Observer Program - New England
+73,COOPA NWS Cooperative Station Climate
+74,COOPAB NWS Cooperative Station Climate - Hydro
+75,COOPABC NWS Cooperative Station Climate - Hydro - Met
+76,COOPAC NWS Cooperative Station Climate - Met
+77,COOPB NWS Cooperative Station Hydro
+78,COOPBC NWS Cooperative Station Hydro - Met
+79,COOPC NWS Cooperative Station Local or Met
+80,UCOOP NWS Unofficial Cooperative Station
+81,HPWREN High Performance Wireless Research and Education Network
+84,GGWWFO Glasgow Weather Forecast Office
+85,SGXWFO San Diego Weather Forecast Office
+86,SNOWBIRD Snowbird Ski and Summer Resort
+89,ODEQ Oregon Department of Environmental Quality
+90,AKDOT Alaska Department of Transportation
+91,IADOT Iowa Department of Transportation
+92,PQRWFO Portland Weather Forecast Office
+94,CPCRC Columbia Plateau Conservation Research Center
+95,MAMMOTH Mammoth Mountain Ski Area
+96,MARITIME Moored Buoys and CMAN
+97,MEDOT Maine Department of Transportation
+99,MDDOT Maryland Department of Transportation
+100,MNDOT Minnesota Department of Transportation
+101,NDDOT North Dakota Department of Transporatation
+102,NEDOR Nebraska Department of Roads
+103,OHDOT Ohio Department of Transportation
+105,NHDOT New Hampshire Department of Transportation
+106,HADS Hydrometeorological Automated Data System
+107,AFGWFO Fairbanks Weather Forecast Office
+108,NCAWOS MADIS Non-Commissioned AWOS
+109,NJNET Rutgers New Jersey Weather Network
+112,DEERVLY Deer Valley Resort
+113,SBCAPCD Santa Barbara County Air Pollution Control District
+115,BCHYDRO BC Hydro
+118,INDOT Indiana Department of Transportation
+119,AZDOT Arizona Department of Transportation
+120,MAWN Enviro-weather/Michigan State University
+121,NOS-PORTS National Ocean Service Physical Oceanographic Real-Time System
+122,NOS-NWLON National Ocean Service Water Level Observation Network
+123,CRN Climate Reference Network 
+125,SFWMD South Florida Water Management District
+127,CDPHE Colorado Department of Public Health and Environment
+128,MTRWFO Monterey Weather Forecast Office
+132,VTRANS Vermont Agency of Transportation
+133,SCHWEITZER Schweitzer Mountain Resort
+134,SEWWFO Seattle Weather Forecast Office
+136,AIRNOW AIRNow
+137,CA HYDRO CA HYDRO 
+138,FGNet Utah Fruit Growers Weather Monitoring Network
+139,SDGE San Diego Gas and Electric
+140,CDEC California Department of Water Resources
+143,DEOS Delaware Environmental Observing System
+144,WSMR U.S. Army White Sands Missile Range
+147,MADIS MISC MADIS Miscellaneous
+150,NMAQ New Mexico Environment Department Air Monitoring Network
+153,UUNET University of Utah MesoWest Mesonet
+156,MOCOMAGNET University of Missouri Extension Commercial Agriculture Automated Weather Network
+157,MQTWFO Marquette Weather Forecast Office
+158,DEDOT Delaware Department of Transportation
+160,ILDOT Illinois Department of Transportation
+161,MAEOT Massachusetts Executive Office of Transportation
+162,MIDOT Michigan Department of Transportation
+166,SCDOT South Carolina Department of Transportation
+167,SDDOT South Dakota Department of Transportation
+169,KSDOT Kansas Department of Transportation
+170,USARRAY U.S. Transportable Array
+172,EKAWFO Eureka Weather Forecast Office
+174,SJSUNET San Jose State University
+175,EPZWFO El Paso Weather Forecast Office
+177,CLNP Crater Lake National Park
+178,VCAPCD Ventura County Air Pollution Control District 
+179,AJKNDBC Alaska National Data Buoy Center
+182,CNRA Canadian Natural Resource Agencies
+183,SRP Salt River Project
+185,COE470 Colorado E-470 Public Highway Authority
+187,LCRA Lower Colorado River Authority
+188,NERRS National Estuarine Research Reserve System
+189,YPG Yuma Proving Ground
+190,REVWFO Reno Weather Forecast Office
+191,JPL NASA Jet Propulsion Laboratory
+193,UCINET University of California Irvine
+194,UCC-AGNET Utah Climate Center AgWeather Network
+195,MAP Multi-Agency Profiler Surface Observations
+196,NMCC New Mexico Climate Center
+198,IUTAH iUtah Water Resources Project
+199,ALERT-MISC ALERT Miscellaneous
+200,AJKWFO Juneau Weather Forecast Office
+201,VTWAC Vermont Weather Analytics Center
+202,ATOC CIRES/ATOC Univ. of Colorado Boulder
+204,USBR HYDRO US Bureau of Reclamation
+205,RAINWISE Rainwise
+206,NMDOT New Mexico Department of Transportation
+209,UB-AIR Uintah Basin Air Quality
+210,GADOT Georgia Department of Transportation
+211,IFLOWS Integrated Flood Observing and Warning System
+212,JSCNASA Johnson Space Center NASA
+213,TWDB Texas Water Development Board
+214,TAHOE Palisades Tahoe Ski Resort
+215,TAOS Taos Avalanche Center
+216,HCFCD Harris County Flood Control District
+217,SLCO SLCo Watershed Stream and Rain Gauging Program
+218,IEM Iowa State Soil Moisture Network
+219,DYACON Dyacon Inc.
+220,EAA Edwards Aquifer Authority
+221,CoAgMet Colorado Agricultural Meteorological Network
+223,WWG-LLWC Western Weather Group - Lodi Wine Country
+224,HOLFUY Holfuy Meteorology
+225,AUSTIN City of Austin Flood Control
+226,INTELLISENSE Intellisense Systems Inc.
+227,BGMWFO Binghamton Weather Forecast Office
+229,PGE Pacific Gas and Electric
+230,SSCAFCA Southern Sandoval County - Arroyo Flood Control Authority
+231,SC-EDISON Southern California Edison
+232,GPTX City of Grand Prairie
+233,WACNET Wyoming Agricultural Climate Network
+234,GBRA Guadalupe-Blanco River Authority
+235,JE-FULLER JE Fuller ALERT
+236,MS-DELTA Delta Agricultural Weather Center
+238,iRON Roaring Fork Observation Network
+239,GLOBAL-METAR Global METAR
+241,HYDRA City of Portland HYDRA Rainfall Network
+243,KIRKWOOD Kirkwood Mountain Resort
+244,DATAWISE DataWise Environmental Monitoring Inc.
+246,LIBERTY Liberty Utilities
+247,PACIFICORP PacifiCorp
+248,CCU Coastal Carolina University
+249,WEATHERSTEM WeatherSTEM
+250,PA-ACAQ Pennsylvania Allegheny County Air Quality Network
+251,PA-COPAMS DEP Commonwealth of Pennsylvania Air Monitoring System
+252,EC-BC-FLNR Env Canada - Government of British Columbia - Ministry of Forests
+253,EC-BC-ENV Env Canada - Government of British Columbia - Ministry of Environment
+254,EC-BC-TRAN Env Canada - Government of British Columbia - Ministry of Transportation and Infrastructure
+256,LSU-AGNET Louisiana State University AgCenter
+257,PADOT Pennsylvania Department of Transportation
+259,HENNEPIN Hennepin West Mesonet
+260,PEMN Pennsylvania Environmental Monitoring Network
+261,NV-ENERGY NV Energy
+263,CW3E Scripps CW3E Mesonet
+265,PGN Portland General Electric
+266,USACE-CENWP US Army Corps of Engineers - Portland District
+267,NORTHERN-WATER Northern Water
+268,JCDD6 Jefferson County Drainage District No. 6
+269,SJRA San Jacinto River Authority
+270,WWG-MISC Western Weather Group - Miscellaneous
+271,CTDOT Connecticut Department of Transportation
+272,WC-ROADS Washington County Land Use and Transportation
+273,HEAVENLY Heavenly Ski Resort
+274,PURDUE Purdue University
+275,U-HAWAII University of Hawai'i
+276,DMI Danish Meteorological Institute
+277,EWEB Eugene Water and Electric Board
+278,NTC NOAA Tides and Currents
+279,ARDOT Arkansas Department of Transportation
+280,WISCONET Wisconsin Environmental Mesonet
+281,GEUS Geological Survey of Denmark and Greenland
+283,MD-MESO Maryland Mesonet
+286,NDBC National Data Buoy Center
+287,PSE Puget Sound Energy
+288,HECO Hawaiian Electric
+289,SKMA South Korea Meteorological Administration
+290,NKHMA North Korea Hydro-Meteorological Administration
+291,CMA China Meteorological Administration
+292,SKME South Korea Ministry of Environment
+293,SMRN Sunnahae Mountain Ridge Network
+294,AUBOM Australian Bureau of Meteorology
+295,NGLO NASA Globe
+296,DWD Deutscher Wetterdienst
+297,UKHYDRO United Kingdom Department for Environment Food & Rural Affair
+298,"CryoGARS Boise State Cryosphere, Geophysics and Remote Sensing group"
+299,MIDCoEMO Midland County Emergency Management Office
+300,MISTRAL Meteo Italian Supercomputing Portal
+302,WXNET6 Weather Net 6
+305,SPAIN Spanish Meteorological Agency
+306,AMERICAN-SAMOA The American Samoa Mesonet
+307,Palau-NIWA Palau (NIWA)
+308,RMI-NIWA Marshall Islands (NIWA)
+312,AMRF African Mountain Research Foundation
+313,ULM University of Louisiana - Monroe
+3002,MT-MESO Montana Mesonet
+3004,FAA-ALASKA Alaska FAA Surface Network
+3009,NC-ECONET North Carolina ECONet
+3013,UGA Georgia Automated Environmental Monitoring Network
+3020,IGS Indiana Geological and Water Survey
+3025,UMRB-UMT Upper Missouri River Basin - University of Montana
+4000,WIS2 WMO Information System 2.0
