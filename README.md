@@ -5,7 +5,7 @@ In the Western United States, the morel mushroom's (*Morchella sp.*) fruiting pa
 
 The 2024 Park Fire near Chico, CA had the largest burn area, and is considered here. An example soil temperature map is below:
 
-![Sample Map](Outputs/Results/Soil_mov_2025-04-30.png)
+<img src="Outputs/Results/Soil_mov_2025-04-30.png" alt="Sample Map" width="300" height="600">
 
 ## Structure
 
