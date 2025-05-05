@@ -3,7 +3,9 @@
 
 In the Western United States, the morel mushroom's (*Morchella sp.*) fruiting pattern is highly correlated with forest disturbance events, including logging, tree death, and most notably wildfires. Though still somewhat a mystery, fruiting onset is thought to depend on the soil temperature - accumulated degree days, in particular. Thus, in the spring following a wildfire, if one can estimate soil temperature in a burn area, one can gain an indication of when and where to go hunting for morels. These scripts produce such estimates.
 
-The 2024 Park Fire near Chico, CA had the largest burn area, and is considered here.
+The 2024 Park Fire near Chico, CA had the largest burn area, and is considered here. An example soil temperature map is below:
+
+![Sample Map](Outputs/Results/Soil_mov_2025-04-30.png)
 
 ## Structure
 
