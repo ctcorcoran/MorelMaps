@@ -62,7 +62,7 @@ sta_num_list = list(sta_df.loc[sta_df['Include']==True,'StationNbr'])
 print('Stations: ',sta_num_list)
 
 if len(sta_num_list) % 2 == 0:
-    tgts = [','.join(sta_num_list[i:(i+2)]) for i in range(int(len(sta_num_list)/2))]
+    tgts = [','.join(sta_num_list[2*i:(2*(i+1))]) for i in range(int(len(sta_num_list)/2))]
 else:
     if len(sta_num_list) == 1:
         print('Need at least two stations')
