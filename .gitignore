@@ -3,6 +3,7 @@ api_config.yml
 notes.txt
 Data/GIS/Raw
 Resources/
+.demo/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
